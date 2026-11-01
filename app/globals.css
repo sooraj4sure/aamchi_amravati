@@ -306,3 +306,8 @@ footer { background: var(--leaf-deep); color: var(--cream); margin-top: 0; }
   html { scroll-behavior: auto; }
   .marquee-inner { animation: none; }
 }
+
+:root {
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-body: "Jost", system-ui, sans-serif;
+}
